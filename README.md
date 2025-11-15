@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/invisible-cloak?style=for-the-badge)](https://github.com/your-username/invisible-cloak/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/deepakrajjs-29/invisible-cloak?style=for-the-badge)](https://github.com/deepakrajjs-29/invisible-cloak/stargazers)
 
 *Bringing Harry Potter magic to life with Computer Vision* ✨
 
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/ddab1871-df9c-4651-92d0-00915ac5f04a
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/invisible-cloak.git
+git clone https://github.com/deepakrajjs-29/invisible-cloak.git
 cd invisible-cloak
 ```
 
@@ -319,20 +319,6 @@ cap = cv2.VideoCapture(1)  # Try 0, 1, 2, etc.
 
 ---
 
-## 🌈 Gallery
-
-<div align="center">
-
-| Before | After |
-|--------|-------|
-| ![Before](assets/before.jpg) | ![After](assets/after.jpg) |
-
-*See the magic in action!*
-
-</div>
-
----
-
 ## 🗺️ Roadmap
 
 - [x] Basic invisibility effect
@@ -374,14 +360,14 @@ MIT License - You are free to:
 
 **Have questions or suggestions?**
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/your-username/invisible-cloak/issues)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/deepakrajjs-29/invisible-cloak/issues)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:deepakrajjs2909@gmail.com)
 
 **Show your support!**
 
 ⭐ Star this repository if you found it helpful!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/deepakrajjs-29?style=social)](https://github.com/deepakrajjs-29)
 
 </div>
 
